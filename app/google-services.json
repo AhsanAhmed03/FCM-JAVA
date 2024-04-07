@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "61544903606",
+    "project_id": "mobile-app-development-90396",
+    "storage_bucket": "mobile-app-development-90396.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:61544903606:android:2d7222e00f0d45060e0717",
+        "android_client_info": {
+          "package_name": "com.mobile.app.development.fcm.java"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAcz1N0Vc-OuvXmejAH0HUI1jNOKzrmeY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:61544903606:android:a4a9ede669ff08790e0717",
+        "android_client_info": {
+          "package_name": "com.mobile.app.development.fcm.kotlin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAcz1N0Vc-OuvXmejAH0HUI1jNOKzrmeY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
